@@ -14,7 +14,7 @@ Untuk Autentikasi nya Saya menggunakan bawaan dari laravel yaitu laravel/sanctum
 
 #DOKUMENTASI WEBSITE
 1. Dokumentasi API yang Sudah saya buat
-![alt text](https://github.com/riskiai/TestAPIBTS/blob/main/public/img/postman.png?raw=true)
+![alt text](https://github.com/riskiai/TestAPIPTBTS/blob/main/public/img/postman.png?raw=true)
 
 
 
